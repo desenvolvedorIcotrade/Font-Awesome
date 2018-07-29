@@ -7,7 +7,7 @@ scratch. On top of this, features like icon font ligatures, an SVG framework,
 official NPM packages for popular frontend libraries like React, and access to
 a new CDN.
 
-Not familiar with Font Awesome 5? [Learn
+_Not familiar with Font Awesome 5? [Learn
 more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
 successful Kickstarter and plan. You can also **[order Font Awesome
 Pro](https://fontawesome.com/pro)** which includes tons more icons directly
